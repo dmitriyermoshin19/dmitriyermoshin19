@@ -2,6 +2,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyermoshin19&layout=compact)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriyermoshin19&hide=stars,prs,issues,contribs&count_private=true)
 
+<b>Core technologies:</b>
+
+ ![Java](https://img.shields.io/badge/JavaSE-%3E%3D%2014-orange)
+![Java](https://img.shields.io/badge/JavaEE-%3E%3D%208-succes)  ![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
+![Maven](https://img.shields.io/badge/Maven-3-red)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
+![Travis](https://img.shields.io/badge/Travis-CI-succes)
 ### Проекты:
 1. [url_shortcut](https://github.com/dmitriyermoshin19/job4j_url_shortcut) 
  REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующем данный сервис. 
