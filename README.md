@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyermoshin19&layout=compact)
-![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriyermoshin19&hide=stars,prs,issues,contribs)
+![Github stats](https://github-readme-stats.vercel.app/api?username=dmitriyermoshin19&hide=stars,prs,issues,contribs&count_private=true)
 
 ### Проекты:
 1. [url_shortcut](https://github.com/dmitriyermoshin19/job4j_url_shortcut) 
