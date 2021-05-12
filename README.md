@@ -12,7 +12,7 @@
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 ### Проекты:
 1. [url_shortcut](https://github.com/dmitriyermoshin19/job4j_url_shortcut) 
- REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующем данный сервис. 
+ REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующим данный сервис. 
  Стек: Spring Boot 2 (Data JPA, Security, Web), Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
 2. [weather_reactive](https://github.com/dmitriyermoshin19/weather_reactive) 
  Консольное приложение для определения температуры по разным городам. 
@@ -20,11 +20,11 @@
 3. [chat](https://github.com/dmitriyermoshin19/job4j_chat)
  REST-сервис, реализующий чат c комнатами. 
  Стек: Spring Boot 2 (Data JPA, Security, Web), Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
-4. [Обучающий проект на REST](https://github.com/dmitriyermoshin19/job4j_rest)
- Классический форум. 
+4. [rest](https://github.com/dmitriyermoshin19/job4j_rest)
+ Обучающий проект на REST. 
 Стек: Spring Boot (Data JPA, Security, Web, Test), Liquibase, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle
-5. [forum на Heroku](https://github.com/dmitriyermoshin19/job4j_forum)
- Классический форум. (https://sleepy-bayou-25273.herokuapp.com/)
+5. [forum](https://github.com/dmitriyermoshin19/job4j_forum)
+ Классический форум, развернутый на Heroku (https://sleepy-bayou-25273.herokuapp.com/)
 Стек: Spring Boot (Data JPA, Security, Web, Test), Liquibase, PostgresSQL, JUnit, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
 6. [car_accident](https://github.com/dmitriyermoshin19/job4j_car_accident)
  Приложение для отслеживания ДТП.
@@ -48,10 +48,10 @@
 Игра в консоли. OOD, SOLID
 13. [grabber](https://github.com/dmitriyermoshin19/job4j_grabber)
  Парсер вакансий. Консольное приложение парсит вакансии на сайте sql.ru по расписанию и записывает в базу данных.
- Стек: JDBC/PostgreSQL
+ Стек: JSOUP, liquibase, JDBC, PostgreSQL, Quartz, Junit, TravisCI, JaCoCo, Checkstyle
 14. [tracker](https://github.com/dmitriyermoshin19/job4j_tracker)
  Сервис управления заявкми. Консольное приложение, поддерживающее CRUD операции с БД. 
- Стек: Java Core, Hibernate, JDBC, ООП
+ Стек: Java Core, Hibernate, JDBC, FP, PostgreSQL, Junit, TravisCI, JaCoCo, CheckstyleООП
 15. [job4j](https://github.com/dmitriyermoshin19/job4j)
 Задачи из Java Core. Учебный репозиторий курса job4j
 Стек: Java SE 14, ООП, Collections, Lambda, StreamAPI, Ввод-вывод IO/NIO, Socket, ООД, GC
