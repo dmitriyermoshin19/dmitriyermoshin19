@@ -11,6 +11,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 ### Проекты:
+-16. [ManagingPassports](https://github.com/dmitriyermoshin19/job4j_managingPassports) 
+ Проверка паспортов подлежащих замене. Взаимодействие двух микросервисов через брокера сообещний Kafka. 
+ Стек: Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, PostgresSQL, TravisCI, JaCoCo, Checkstyle 
+ 
 -15. [url_shortcut](https://github.com/dmitriyermoshin19/job4j_url_shortcut) 
  REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующим данный сервис. 
  Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle 
