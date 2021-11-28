@@ -11,13 +11,17 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%209-blue)
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 ### Проекты:
--16. [ManagingPassports](https://github.com/dmitriyermoshin19/job4j_managingPassports) 
+-17. [UserCashApi](https://github.com/dmitriyermoshin19/UserCashApi) 
+ Cоздание учетной записи для пользователя, вносившего первоначальный денежный вклад с последующим увуличением. 
+ Стек: Spring Boot 2 (Data JPA, Security, Web), Lombok, Swagger, REST API, Liquibase, JWT, Mockito, PostgresSQL, Slf4j 
+ 
+ -16. [ManagingPassports](https://github.com/dmitriyermoshin19/job4j_managingPassports) 
  Проверка паспортов подлежащих замене. Взаимодействие двух микросервисов через брокера сообещний Kafka. 
- Стек: Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, PostgresSQL, TravisCI, JaCoCo, Checkstyle 
+ Стек: Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, PostgresSQL, TravisCI, JaCoCo, Checkstyle
  
 -15. [url_shortcut](https://github.com/dmitriyermoshin19/job4j_url_shortcut) 
  REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующим данный сервис. 
- Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle 
+ Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle 
  
 -14. [weather_reactive](https://github.com/dmitriyermoshin19/weather_reactive) 
  Консольное приложение для определения температуры по разным городам. 
@@ -25,19 +29,19 @@
  
 -13. [chat](https://github.com/dmitriyermoshin19/job4j_chat)
  REST-сервис, реализующий чат c комнатами. 
- Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle 
+ Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle 
  
 -12. [rest](https://github.com/dmitriyermoshin19/job4j_rest)
  Обучающий проект на REST. 
-Стек: Spring Boot (Data JPA, Security, Web, Test), REST API, Liquibase, PostgresSQL, JUnit, TravisCI, JaCoCo, Checkstyle 
+Стек: Spring Boot (Data JPA, Web, Test), REST API, Liquibase, PostgresSQL, Mockito, TravisCI, JaCoCo, Checkstyle 
 
 -11. [forum](https://github.com/dmitriyermoshin19/job4j_forum)
  Классический форум, развернутый на Heroku (https://sleepy-bayou-25273.herokuapp.com/)
-Стек: Spring Boot (Data JPA, Security, Web, Test), Liquibase, PostgresSQL, JUnit, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
+Стек: Spring Boot (Data JPA, Security, Web, Test), Liquibase, PostgresSQL, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
 
 -10. [car_accident](https://github.com/dmitriyermoshin19/job4j_car_accident)
  Приложение для отслеживания ДТП.
-Стек: Spring (WebMVC, Data, JDBC, ORM, Security), Hibernate, PostgreSQL, Liquibase, Tomcat, JUnit, log4j, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
+Стек: Spring (WebMVC, Data, JDBC, ORM, Security), Hibernate, PostgreSQL, Liquibase, Tomcat, log4j, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
 
 Spring
 
