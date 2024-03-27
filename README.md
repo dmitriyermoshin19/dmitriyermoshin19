@@ -12,6 +12,8 @@
 ![Travis](https://img.shields.io/badge/Travis-CI-succes)
 
 ### Projects:
+**Spring**   
+
 -17. [UserCashApi](https://github.com/dmitriyermoshin19/UserCashApi)   
 Creating an account for the user who made the initial monetary contribution with subsequent withdrawal. Stack: Spring Boot 2 (Data JPA, Security, Web), Lombok, Swagger, REST API, Liquibase, JWT, Mockito, PostgresSQL, Slf4j
 
@@ -36,7 +38,8 @@ A classic forum deployed on Heroku (https://sleepy-bayou-25273.herokuapp.com /) 
 -10. [car_accident](https://github.com/dmitriyermoshin19/job4j_car_accident)   
 An application for tracking accidents. Stack: Spring (WebMVC, Data, JDBC, ORM, Security), Hibernate, PostgreSQL, Liquibase, Tomcat, log4j, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
 
-Spring
+
+**Hibernate**
 
 -9. [carsale](https://github.com/dmitriyermoshin19/job4j_carsale)   
 A car sales platform. Stack: Servlets, Hibernate, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
@@ -44,7 +47,7 @@ A car sales platform. Stack: Servlets, Hibernate, PostgreSQL, Tomcat, JUnit, Moc
 -8. [todo](https://github.com/dmitriyermoshin19/job4j_todo)   
 A simple TodoList. An application for monitoring cases and tasks. Stack: Servlets, Hibernate, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
 
-Hibernate
+**Servlets**
 
 -7. [cinema](https://github.com/dmitriyermoshin19/job4j_cinema)   
 The Cinema service, with the possibility of buying seats. Stack: Servlets, PostgreSQL, JDBC, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
@@ -52,12 +55,12 @@ The Cinema service, with the possibility of buying seats. Stack: Servlets, Postg
 -6. [dreamjob](https://github.com/dmitriyermoshin19/job4j_dreamjob)   
 The "Dream Job" project for tracking vacancies and candidates. Stack: Servlets, PostgreSQL, JDBC, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle
 
-Servlets
+**Multithreading**
 
 -5. [pooh](https://github.com/dmitriyermoshin19/job4j_pooh)   
 An analog of the RabbitMQ asynchronous queue service. An example of using multithreading Stack: Java SE 14, ExecutorService, Maven, JUnit, Mockito, TravisCI, JaCoCo, Checkstyle
 
-Multithreading
+**other**
 
 -4. [Tic-tac-toe](https://github.com/dmitriyermoshin19/job4j/tree/master/Junior/src/main/java/ru/job4j/oo4/tictactoo)   
 The game is in the console. Stack: Java SE 14, Maven, JUnit, Mockito, TravisCI, JaCoCo, Checkstyle
@@ -73,81 +76,6 @@ Tasks from Java Core. job4j course Training Repository Stack: Java SE 14, OOP, C
 
 
 
-### Проекты:
--17. [UserCashApi](https://github.com/dmitriyermoshin19/UserCashApi) 
- Cоздание учетной записи для пользователя, вносившего первоначальный денежный вклад с последующим увуличением. 
- Стек: Spring Boot 2 (Data JPA, Security, Web), Lombok, Swagger, REST API, Liquibase, JWT, Mockito, PostgresSQL, Slf4j 
- 
- -16. [ManagingPassports](https://github.com/dmitriyermoshin19/job4j_managingPassports) 
- Проверка паспортов подлежащих замене. Взаимодействие двух микросервисов через брокера сообещний Kafka. 
- Стек: Kafka, Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, PostgresSQL, TravisCI, JaCoCo, Checkstyle
- 
--15. [url_shortcut](https://github.com/dmitriyermoshin19/job4j_url_shortcut) 
- REST-сервис, заменяющий ссылки на код, что обеспечивает безопасность пользователей на сайте, использующим данный сервис. 
- Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle 
- 
--14. [weather_reactive](https://github.com/dmitriyermoshin19/weather_reactive) 
- Консольное приложение для определения температуры по разным городам. 
- Стек: Spring (boot / WebFlux), REST API, Gradle, Checkstyle 
- 
--13. [chat](https://github.com/dmitriyermoshin19/job4j_chat)
- REST-сервис, реализующий чат c комнатами. 
- Стек: Spring Boot 2 (Data JPA, Security, Web), REST API, Liquibase, JWT, PostgresSQL, TravisCI, JaCoCo, Checkstyle 
- 
--12. [rest](https://github.com/dmitriyermoshin19/job4j_rest)
- Обучающий проект на REST. 
-Стек: Spring Boot (Data JPA, Web, Test), REST API, Liquibase, PostgresSQL, Mockito, TravisCI, JaCoCo, Checkstyle 
-
--11. [forum](https://github.com/dmitriyermoshin19/job4j_forum)
- Классический форум, развернутый на Heroku (https://sleepy-bayou-25273.herokuapp.com/)
-Стек: Spring Boot (Data JPA, Security, Web, Test), Liquibase, PostgresSQL, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
-
--10. [car_accident](https://github.com/dmitriyermoshin19/job4j_car_accident)
- Приложение для отслеживания ДТП.
-Стек: Spring (WebMVC, Data, JDBC, ORM, Security), Hibernate, PostgreSQL, Liquibase, Tomcat, log4j, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
-
-Spring
-
--9. [carsale](https://github.com/dmitriyermoshin19/job4j_carsale)
- Площадка продажи авто. 
- Стек: Servlets, Hibernate, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
- 
--8. [todo](https://github.com/dmitriyermoshin19/job4j_todo)
- Простой ToDoList. Приложение для контроля дел и задач.
-Стек: Servlets, Hibernate, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
-
-Hibernate
-
--7. [cinema](https://github.com/dmitriyermoshin19/job4j_cinema)
- Сервис "Кинотеатр", с возможностью покупки мест.
-Стек: Servlets, PostgreSQL, JDBC, PostgreSQL, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
-
--6. [dreamjob](https://github.com/dmitriyermoshin19/job4j_dreamjob)
- Проект "Работа мечты" для отслеживания вакансий и кандидатов.
-Стек: Servlets, PostgreSQL, JDBC, Tomcat, JUnit, Mockito, TravisCI, JaCoCo, AJAX, JSON, HTML, Checkstyle 
-
-Servlets
-
--5. [pooh](https://github.com/dmitriyermoshin19/job4j_pooh)
-  Аналог сервиса асинхронной очереди RabbitMQ. Пример применения многопоточности
-Стек: Java SE 14, ExecutorService, Maven, JUnit, Mockito, TravisCI, JaCoCo, Checkstyle 
-
-Multithreading
-
--4. [Крестики-нолики](https://github.com/dmitriyermoshin19/job4j/tree/master/Junior/src/main/java/ru/job4j/oo4/tictactoo) 
-Игра в консоли. Стек: Java SE 14, Maven, JUnit, Mockito, TravisCI, JaCoCo, Checkstyle
-
--3. [grabber](https://github.com/dmitriyermoshin19/job4j_grabber)
- Парсер вакансий. Консольное приложение парсит вакансии на сайте sql.ru по расписанию и записывает в базу данных.
- Стек: JSOUP, liquibase, JDBC, PostgreSQL, Quartz, Junit, TravisCI, JaCoCo, Checkstyle 
- 
--2. [tracker](https://github.com/dmitriyermoshin19/job4j_tracker)
- Сервис управления заявкми. Консольное приложение, поддерживающее CRUD операции с БД. 
- Стек: Java Core, Hibernate, JDBC, FP, PostgreSQL, Junit, TravisCI, JaCoCo, CheckstyleООП 
- 
--1. [job4j](https://github.com/dmitriyermoshin19/job4j)
-Задачи из Java Core. Учебный репозиторий курса job4j
-Стек: Java SE 14, ООП, Collections, Lambda, StreamAPI, Ввод-вывод IO/NIO, Socket, ООД, GC 
 
 
 <!--
